@@ -5,3 +5,4 @@ PsychoPy scripts for reading comprehension experiments.
 - **writing_task.py** is similar to cmap_task.py, but measures learning products in the format of summary/arugment/essay. It firstly converts the writing results into the network format by using the function *text2graph* in [*AutoKS*](https://github.com/weiziqianpsych/AutoKS), and then records various indicators mentioned above in the section of cmap_task.py.
 
 ![alt text](https://github.com/weiziqianpsych/ks_tasks/blob/main/interfaces.png?raw=true)
+Figure 1 Example of interfaces (from the left to the right: the reading task, the concept map task and the writing task)
