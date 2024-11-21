@@ -7,3 +7,6 @@ PsychoPy scripts for reading comprehension experiments.
 ![Fig 1](interfaces_screenshot.png)
 
 Figure 1 Example of interfaces (from the top to the bottom: the reading task, the concept map task and the writing task)
+
+Please see:
+Wei, Z., Zhang, Y., Clariana, R. B., & Chen, X. (2024). The effects of reading prompts and post-reading generative learning tasks on multiple document integration: Evidence from concept network analysis. Educational Technology Research and Development, 72, 661–685. https://doi.org/10.1007/s11423-023-10326-w
